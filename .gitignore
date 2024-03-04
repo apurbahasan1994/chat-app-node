@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Compiled binary addons (if any)
+build/Release
+
+# Output of 'npm pack'
+*.tgz
+
+# macOS metadata
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# VSCode configuration files
+.vscode/
+
+# JetBrains IDE configuration files
+.idea/
+
+# Editor specific backup files
+*.swp
+
+# Configuration files for local development
+config/local.json
